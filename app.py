@@ -55,7 +55,7 @@ def init_db():
 
     conn.commit()
     conn.close()
-
+# test
 init_db()
 
 # หน้าเมนู
